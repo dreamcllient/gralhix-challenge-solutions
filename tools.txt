@@ -1,0 +1,5 @@
+Google dorks;
+Maltego;
+pdf files dorks;
+duckduckgo;
+osint framework;
